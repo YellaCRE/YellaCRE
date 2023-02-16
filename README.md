@@ -1,7 +1,7 @@
 ### 🚀 Things I do
 Collaborative Filtering, Deep Learning, NLP(especially Korean NLP!)
 
-📬 Find me at
+### 📬 Find me at
 hchj2005@gmail.com
 <!--
 **YellaCRE/YellaCRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
