@@ -1,4 +1,5 @@
-### Data Scientist 
+### 🚀 Things I do
+Collaborative Filtering, Deep Learning, NLP(especially Korean NLP!)
 
 <!--
 **YellaCRE/YellaCRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
