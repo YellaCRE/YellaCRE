@@ -2,7 +2,7 @@
 Collaborative Filtering, Deep Learning, NLP(especially Korean NLP!)
 
 ### 📬 Find me at
- <a href="mailto:hchj2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+ <a href="mailto:hchj2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--
 **YellaCRE/YellaCRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
