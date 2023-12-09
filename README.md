@@ -6,6 +6,9 @@
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=default&postId=changjohwnag&theme=default)](https://github.com/loosie/github-readme-tistory-card)
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=changjohwnag&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
+
+
 ## 🚀 Things I do
 Recommender system, NLP
 
