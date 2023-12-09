@@ -9,6 +9,8 @@ Recommender system, NLP
 
 ## 📬 Find me at
  <a href="mailto:hchj2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://changjohwang.tistory.com/"><img src="https://img.shields.io/badge/Tistory-#000000?style=flat&logo=tistory&logoColor=white"/></a>
+
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme={kakao})](https://changjohwang.tistory.com/)
 
 
