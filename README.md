@@ -4,17 +4,18 @@
 ## ✏️ Study
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yellacre)](https://solved.ac/yellacre/)
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&postId={insert_postId}&theme={insert_theme})](https://changjohwang.tistory.com/)
+
 ## 🚀 Things I do
 Recommender system, NLP
 
 ## 📬 Find me at
  <a href="mailto:hchj2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>  
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme={kakao})](https://changjohwang.tistory.com/)
 
 
 <!--
 **YellaCRE/YellaCRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme={kakao})](https://changjohwang.tistory.com/)
 
 Here are some ideas to get you started:
 
