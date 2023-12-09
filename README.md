@@ -4,7 +4,7 @@
 ## ✏️ Study
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yellacre)](https://solved.ac/yellacre/)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=changjohwang&postId={insert_postId}&theme={insert_theme})](https://changjohwang.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={}&postId=changjohwang&theme=tistory)](https://changjohwang.tistory.com/)
 
 ## 🚀 Things I do
 Recommender system, NLP
