@@ -1,3 +1,5 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yellacre)](https://solved.ac/yellacre/)
+
 ### 🚀 Things I do
 Recommender system, NLP
 
