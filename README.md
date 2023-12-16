@@ -1,9 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 ## 💻 About Me
-Hi! I am Changjo Hwang, a novice data scientist and programmer, majoring in Industrial Engineering at Seoul National University of science and technology.  
+Hi! I am Changjo Hwang, a novice data scientist and programmer, majoring in Industrial Engineering at Seoul National University of science and technology.
+I'm interested in developing application software with deep learning model.
+I participated in a project that developing software which recommend JEJU tourist spot for tourist using BC card. 
 
 ## 🚀 Things I do
-Recommender system, NLP, application software with AI
+Recommendation system(RecSys), natural language processing(NLP), developing application software with AI
 
 ## ✏️ Study
 ### Solved.ac  
