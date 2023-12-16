@@ -1,5 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 ## 💻 About Me
+Hi! I am Hwang Changjo. I am a novice data scientist and programmer, majoring in Industrial Engineering at Seoul National University of science and technology.  
 
 ## ✏️ Study
 ### Solved.ac  
