@@ -4,7 +4,7 @@ Hi! I am Changjo Hwang, a novice data scientist and programmer, majoring in Indu
 I'm interested in developing application software with deep learning.
 I participated in a project that develop a software which recommend a JEJU tourist spot for tourist who using BC card.  
 *project details are here <https://economist.co.kr/article/view/ecn202208110019>*  
-In project, I design part of recommendation service and implement recommendation engine architecture using RecSys algorithm and deep learning model.
+In project, I design part of recommendation service and implement recommendation engine architecture using RecSys algorithms and deep learning algorithms.
 
 ## 🚀 Things I do
 Recommendation system(RecSys), natural language processing(NLP), developing application software with AI
