@@ -2,15 +2,14 @@
 ## 💻 About Me
 Hi! I am Hwang Changjo. I am a novice data scientist and programmer, majoring in Industrial Engineering at Seoul National University of science and technology.  
 
+## 🚀 Things I do
+Recommender system, NLP, application software with AI
+
 ## ✏️ Study
 ### Solved.ac  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yellacre)](https://solved.ac/yellacre/)
 ### Tistory  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=changjohwang&postId=53&theme=tistory)](https://changjohwang.tistory.com/)
-
-
-## 🚀 Things I do
-Recommender system, NLP, application software with AI
 
 ## 📬 Find me at
  <a href="mailto:hchj2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a> 
