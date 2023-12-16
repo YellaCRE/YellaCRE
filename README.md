@@ -5,6 +5,8 @@ I'm interested in developing application software with deep learning.
 In 2022, I participated in a project that develop a software which recommend a JEJU tourist spot for tourist who using BC card. *related news about project is* [here](https://economist.co.kr/article/view/ecn202208110019)   
 In the project, I design part of recommendation service and implement recommendation engine architecture using RecSys and deep learning algorithms.
 
+More information about me is [here](https://jade-suit-c11.notion.site/Changjo-Hwang-c40852cb33ac4e09b963a12885bcfd2f)  
+
 ## 🚀 Things I do
 Recommendation system(RecSys), natural language processing(NLP), developing application software with AI
 
