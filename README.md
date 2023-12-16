@@ -10,7 +10,7 @@ In project, I design part of recommendation service and implement recommendation
 Recommendation system(RecSys), natural language processing(NLP), developing application software with AI
 
 ## ✏️ Study
-### Solved.ac  
+### Solved.ac - Backjoon's algorithms test  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yellacre)](https://solved.ac/yellacre/)
 ### Tistory  
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=changjohwang&postId=53&theme=tistory)](https://changjohwang.tistory.com/)
